@@ -1,0 +1,11 @@
+{"ts":"2026-04-12T07:15:46+02:00","level":"warn","message":"Failed login attempt","context":{"email":"ana@alumno.buap.mx"}}
+{"ts":"2026-04-12T07:16:13+02:00","level":"warn","message":"Failed login attempt","context":{"email":"ana@alumno.buap.mx"}}
+{"ts":"2026-04-14T23:16:44+02:00","level":"warn","message":"Failed login attempt","context":{"email":"ana@alumno.buap.mx"}}
+{"ts":"2026-04-28T02:06:35+02:00","level":"warn","message":"Failed login attempt","context":{"email":"juan.gutierrezhe@alumno.buap.mx"}}
+{"ts":"2026-10-22T18:15:31+00:00","level":"critical","message":"PANIC ALERT","context":{"user_id":4,"timestamp":"2026-10-22T18:15:31+00:00","lat":null,"lng":null}}
+{"ts":"2026-10-22T18:16:27+00:00","level":"critical","message":"PANIC ALERT","context":{"user_id":4,"timestamp":"2026-10-22T18:16:27+00:00","lat":null,"lng":null}}
+{"ts":"2026-10-22T23:37:57+02:00","level":"warn","message":"Failed login attempt","context":{"email":"ana@alumno.buap.mx"}}
+{"ts":"2026-10-22T23:38:23+02:00","level":"critical","message":"PANIC ALERT","context":{"user_id":4,"timestamp":"2026-10-22T23:38:23+02:00","lat":19,"lng":-98.2}}
+{"ts":"2026-10-22T23:38:29+02:00","level":"info","message":"Password reset","context":{"user_id":5}}
+{"ts":"2026-10-23T01:37:11+02:00","level":"warn","message":"Failed login attempt","context":{"email":"israel.azucenam@alumno.buap.mx"}}
+{"ts":"2026-10-23T03:38:37+02:00","level":"warn","message":"Failed login attempt","context":{"email":"israel.azucenam@alumno.buap.mx"}}
